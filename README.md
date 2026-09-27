@@ -12,17 +12,17 @@
 
 > I started coding at **13 years old** and have been coding, learning, and building projects ever since.
 >
-> 🗓️ **Coding since:** 2020
-> ⌛ **Experience:** 6 years
-> 🎂 **Started coding at:** 13
-> 🚀 **Current age:** 19
+> 🗓️ **Coding since:** 2020  
+> ⌛ **Experience:** 6 years  
+> 🎂 **Started coding at:** 13  
+> 🚀 **Current age:** 19  
 > 💻 **Main focus:** JavaScript, Node.js, Discord.js, automation, and software projects
 
 <a href="https://discord.com/users/1541494597941731431" target="_blank">
-  <img src="https://discord.c99.nl/widget/theme-3/1541494597941731431.png" alt="CodeGhostOfc Discord Profile">
+  <img src="https://discord.c99.nl/widget/theme-1/1541494597941731431.png" alt="CodeGhostOfc Discord Profile">
 </a>
 
----
+***
 
 * 🔭 When I'm on my PC, I'm usually **coding, working on projects, experimenting with new ideas, or gaming**.
 
@@ -49,7 +49,7 @@
 
 </div>
 
----
+***
 
 ## 🔗 Connect With Me
 
@@ -72,36 +72,36 @@
 <div align="center">
 
 <a href="https://discord.com/users/1541494597941731431" target="_blank">
-  <img src="https://discord.c99.nl/widget/theme-3/1541494597941731431.png" alt="Discord Status">
+  <img src="https://discord.c99.nl/widget/theme-1/1541494597941731431.png" alt="Discord Status">
 </a>
 
 </div>
 
----
+***
 
 ## 📈 Coding History
 
-> **2020** → Started coding at 13
-> **2021** → Learned, experimented, and built projects
-> **2022** → Continued developing my skills
-> **2023** → Started working on more advanced projects
-> **2024** → Expanded my development and automation skills
-> **2025** → Continued building and experimenting
+> **2020** → Started coding at 13  
+> **2021** → Learned, experimented, and built projects  
+> **2022** → Continued developing my skills  
+> **2023** → Started working on more advanced projects  
+> **2024** → Expanded my development and automation skills  
+> **2025** → Continued building and experimenting  
 > **2026** → Still coding, still learning, still building
 
 > **6 years of coding. Always learning. Always building.**
 
----
+***
 
 ## 📌 Current Focus
 
-> 💬 **Discord Bot Development**
-> ⚙️ **Automation & Tools**
-> 💻 **JavaScript & Node.js**
-> 🛠️ **Software Projects**
+> 💬 **Discord Bot Development**  
+> ⚙️ **Automation & Tools**  
+> 💻 **JavaScript & Node.js**  
+> 🛠️ **Software Projects**  
 > 📚 **Learning New Technologies**
 
----
+***
 
 ## 📊 GitHub Stats
 
@@ -115,7 +115,7 @@
 
 </div>
 
----
+***
 
 ## 👻 Thanks For Visiting
 
