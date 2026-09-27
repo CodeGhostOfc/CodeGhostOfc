@@ -166,19 +166,25 @@ Building personal projects, experiments, utilities, and applications to learn ne
 <div align="center">
 
 <a href="https://github.com/CodeGhostOfc">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeGhostOfc&theme=github_dark" alt="CodeGhostOfc GitHub Statistics">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeGhostOfc&theme=github_dark" alt="CodeGhostOfc GitHub Statistics">
+
 </a>
 
 <br><br>
 
 <a href="https://github.com/CodeGhostOfc">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeGhostOfc&theme=github_dark" alt="CodeGhostOfc Repository Languages">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeGhostOfc&theme=github_dark" alt="CodeGhostOfc Repository Languages">
+
 </a>
 
 <br><br>
 
 <a href="https://github.com/CodeGhostOfc">
-  <img src="https://streak-stats.demolab.com/?user=CodeGhostOfc&theme=github-dark-blue&hide_border=true" alt="CodeGhostOfc GitHub Streak">
+
+<img src="https://streak-stats.demolab.com/?user=CodeGhostOfc&theme=github-dark-blue&hide_border=true" alt="CodeGhostOfc GitHub Streak">
+
 </a>
 
 </div>
@@ -268,3 +274,6 @@ I'm always working on improving my programming skills, learning new technologies
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:0D1117&height=120&section=footer" width="100%" alt="Footer">
 
 </div>
+```
+
+This version has the new **Statistics + Languages + Streak** cards integrated into the full profile, rather than as a separate snippet.
