@@ -166,17 +166,19 @@ Building personal projects, experiments, utilities, and applications to learn ne
 <div align="center">
 
 <a href="https://github.com/CodeGhostOfc">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CodeGhostOfc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="CodeGhostOfc GitHub Stats">
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeGhostOfc&theme=github_dark" alt="CodeGhostOfc GitHub Statistics">
 </a>
 
 <br><br>
 
 <a href="https://github.com/CodeGhostOfc">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeGhostOfc&theme=github_dark" alt="CodeGhostOfc Repository Languages">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeGhostOfc&layout=compact&theme=github_dark&hide_border=true" alt="CodeGhostOfc Top Languages">
+<br><br>
 
+<a href="https://github.com/CodeGhostOfc">
+  <img src="https://streak-stats.demolab.com/?user=CodeGhostOfc&theme=github-dark-blue&hide_border=true" alt="CodeGhostOfc GitHub Streak">
 </a>
 
 </div>
