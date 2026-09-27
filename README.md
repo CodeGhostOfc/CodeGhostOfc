@@ -45,16 +45,6 @@ I enjoy taking ideas and turning them into functional projects while constantly 
 
 💬 **Discord Bots**
 Automation, moderation, commands, utilities, and custom Discord systems.
-
-⚙️ **Automation & Tools**
-Projects designed to simplify repetitive tasks and improve workflows.
-
-💻 **Software Projects**
-Experiments, utilities, scripts, and applications built to learn and solve problems.
-
-🎨 **Customization**
-Windows customization, themes, interfaces, and other personal projects.
-
 ---
 
 ## 📈 My Development Journey
