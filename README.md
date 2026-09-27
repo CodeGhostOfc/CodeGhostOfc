@@ -2,216 +2,221 @@
 
 # 👻 CodeGhostOfc
 
-### Developer • Programmer • Discord Bot Developer
+### Developer • Programmer • Builder
 
-**Building projects, learning, and turning ideas into code since 2020.**
+**Turning ideas into code since 2020.**
 
 <br>
 
-<a href="https://github.com/CodeGhostOfc" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub">
+<a href="https://github.com/CodeGhostOfc">
+  <img src="https://img.shields.io/badge/GitHub-CodeGhostOfc-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-&nbsp;&nbsp;
-<a href="https://discord.com/users/1541494597941731431" target="_blank">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="42" height="42" alt="Discord">
+<a href="https://discord.com/users/1541494597941731431">
+  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/CodeGhostOfc?tab=repositories" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/5865F2" width="42" height="42" alt="Repositories">
+<a href="#-about-me">
+  <img src="https://img.shields.io/badge/Coding%20Since-2020-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Coding Since 2020">
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=CodeGhostOfc&style=flat-square&label=Profile+Views" alt="Profile Views">
 
 </div>
 
-***
+---
 
 ## 👋 About Me
 
-I'm **CodeGhostOfc**, a developer who started coding at **13**.
+<div align="center">
 
-I've been coding since **2020**, spending my time building projects, learning new technologies, experimenting with ideas, and improving my development skills.
+I'm **CodeGhostOfc**, a developer and programmer focused on **Discord bots, automation, JavaScript, Node.js, and software projects**.
 
-🗓️ **Coding since:** 2020  
-⌛ **Experience:** 6 years  
-🎂 **Started coding at:** 13  
-🚀 **Current age:** 19  
-💻 **Main focus:** Discord Bots, JavaScript, Node.js, Automation & Software
+</div>
 
-***
+> 🗓️ **Coding since:** 2020
+> ⌛ **Experience:** 6 years
+> 🎂 **Started coding at:** 13
+> 🚀 **Current age:** 19
+> 💻 **Focus:** Development, automation, bots & software
+
+I started coding at **13 years old** and have been learning, experimenting, and building projects ever since. I enjoy taking an idea and turning it into something that actually works.
+
+---
 
 ## 👤 Discord Profile
 
 <div align="center">
 
-<a href="https://discord.com/users/1541494597941731431" target="_blank">
+<a href="https://discord.com/users/1541494597941731431">
   <img src="https://discord.c99.nl/widget/theme-1/1541494597941731431.png" alt="CodeGhostOfc Discord Profile">
 </a>
 
 <br><br>
 
-<a href="https://discord.com/users/1541494597941731431" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-Open%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Open Discord Profile">
+<a href="https://discord.com/users/1541494597941731431">
+  <img src="https://img.shields.io/badge/View%20Discord%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="View Discord Profile">
 </a>
 
 </div>
 
-***
+---
 
 ## 💻 About Me
 
-- 🔭 When I'm on my PC, I'm usually **coding, working on projects, experimenting, or gaming**.
-- 🌱 Currently working with **JavaScript, Node.js, and Discord.js**.
-- 💬 Interested in **Discord bot development, moderation, automation, and software**.
-- 🚀 Started coding in **2020** and have continued building through **2026**.
-- 👻 I like turning ideas into working projects and learning from every project I build.
+* 🔭 When I'm on my PC, I'm usually **coding, building projects, experimenting, or gaming**.
+* 🌱 Currently working with **JavaScript, Node.js, Discord.js, Git, and GitHub**.
+* 💬 Interested in **Discord bot development, automation, moderation systems, and software**.
+* 🚀 Started programming in **2020** and have continued developing my skills through 2026.
+* 👻 I enjoy learning new technologies and turning ideas into working projects.
 
-***
+---
 
 ## 🧰 Languages & Tools
 
 <div align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </a>
-&nbsp;
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" alt="Node.js">
+
+<a href="https://nodejs.org/">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 </a>
-&nbsp;
-<a href="https://discord.js.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="48" height="48" alt="Discord.js">
+
+<a href="https://discord.js.org/">
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js">
 </a>
-&nbsp;
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git">
+
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </a>
-&nbsp;
-<a href="https://github.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub">
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="48" height="48" alt="Visual Studio Code">
+
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
 </a>
-&nbsp;
-<a href="https://www.json.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/json/000000" width="48" height="48" alt="JSON">
-</a>
-&nbsp;
-<a href="https://www.markdownguide.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/markdown/000000" width="48" height="48" alt="Markdown">
+
+<a href="https://www.json.org/">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
 </a>
 
 </div>
 
-***
+---
 
 ## 🚀 What I Build
 
 ### 💬 Discord Bots
-Custom bots built with **Discord.js** and **Node.js**, including moderation, commands, utilities, automation, and server tools.
+
+Building Discord bots with **Discord.js** and **Node.js**, including:
+
+* Moderation systems
+* Custom commands
+* Automated responses
+* Server utilities
+* Management tools
+* Bot features and integrations
 
 ### ⚙️ Automation
-Scripts and tools that simplify repetitive tasks and improve workflows.
+
+Creating scripts, utilities, and tools that automate repetitive tasks and simplify workflows.
 
 ### 💻 Software Projects
-Utilities, experiments, scripts, and personal projects built to learn, test ideas, and solve problems.
 
-***
+Building personal projects, experiments, utilities, and applications to learn new concepts and solve problems.
+
+---
 
 ## 📈 Coding Journey
 
 <div align="center">
 
-| Year | Progress |
-|:---:|:---|
-| **2020** | 🟢 Started coding at 13 |
-| **2021** | 📚 Learned and experimented |
-| **2022** | 🛠️ Started building more projects |
-| **2023** | 🚀 Expanded my programming skills |
-| **2024** | 💻 Worked on larger projects |
-| **2025** | ⚙️ Continued development & automation |
-| **2026** | 👻 Still coding, learning & building |
+|   Year   | Journey                               |
+| :------: | ------------------------------------- |
+| **2020** | 🟢 Started coding at 13               |
+| **2021** | 📚 Learning & experimenting           |
+| **2022** | 🛠️ Building more projects            |
+| **2023** | 🚀 Expanding programming skills       |
+| **2024** | 💻 Larger projects & new technologies |
+| **2025** | ⚙️ Development & automation           |
+| **2026** | 👻 Still coding, learning & building  |
 
 </div>
 
 > **6 years of coding. Always learning. Always building.**
 
-***
+---
 
 ## 🎯 Current Focus
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=flat-square&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Automation-111827?style=flat-square&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Software-111827?style=flat-square&logo=code&logoColor=white">
+<img src="https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Software-111827?style=for-the-badge&logo=code&logoColor=white">
 
 </div>
 
-***
+---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CodeGhostOfc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeGhostOfc&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
-
-</div>
-
-***
-
-## 📂 Projects
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/CodeGhostOfc?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories">
-</a>
-
-</div>
-
-***
-
-## 🔗 Connect
-
-<div align="center">
-
-<a href="https://github.com/CodeGhostOfc" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/1541494597941731431" target="_blank">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="36" height="36" alt="Discord">
+<a href="https://github.com/CodeGhostOfc">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeGhostOfc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="CodeGhostOfc GitHub Stats">
 </a>
 
 <br><br>
 
-<a href="https://github.com/CodeGhostOfc" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-CodeGhostOfc-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-</a>
-<a href="https://discord.com/users/1541494597941731431" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-CodeGhostOfc-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile">
+<a href="https://github.com/CodeGhostOfc">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeGhostOfc&layout=compact&theme=github_dark&hide_border=true" alt="CodeGhostOfc Top Languages">
 </a>
 
 </div>
 
-***
+---
+
+## 🔗 Find Me
 
 <div align="center">
 
-### 👻 Code. Build. Learn. Repeat.
+<a href="https://github.com/CodeGhostOfc">
+  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+</a>
 
-**Thanks for visiting my profile!**
+<a href="https://github.com/CodeGhostOfc?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+</a>
+
+<a href="https://discord.com/users/1541494597941731431">
+  <img src="https://img.shields.io/badge/Discord-My%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile">
+</a>
+
+</div>
+
+---
+
+## 👻 Thanks For Visiting
+
+<div align="center">
+
+### Code. Build. Learn. Repeat.
+
+<br>
+
+<a href="https://github.com/CodeGhostOfc">
+  <img src="https://img.shields.io/badge/Follow-CodeGhostOfc-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow CodeGhostOfc">
+</a>
+
+<a href="https://discord.com/users/1541494597941731431">
+  <img src="https://img.shields.io/badge/Connect-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Connect on Discord">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=CodeGhostOfc&style=for-the-badge" alt="Profile Views">
 
 </div>
