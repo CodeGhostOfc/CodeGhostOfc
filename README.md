@@ -18,29 +18,29 @@
 
 </div>
 
-***
+---
 
 ## <div align="center">I'm CodeGhostOfc, mainly a Developer & Discord Bot Developer! 🚀</div>
 
 > I started coding at **13 years old** and have been coding, learning, and building projects ever since.
 >
-> 🗓️ **Coding since:** 2020  
-> ⌛ **Experience:** 6 years  
-> 🎂 **Started coding at:** 13  
-> 🚀 **Current age:** 19  
+> 🗓️ **Coding since:** 2020
+> ⌛ **Experience:** 6 years
+> 🎂 **Started coding at:** 13
+> 🚀 **Current age:** 19
 > 💻 **Main focus:** JavaScript, Node.js, Discord.js, automation, and software projects
 
-***
+---
 
 ## 👋 About Me
 
-- 🔭 When I'm on my PC, I'm usually **coding, working on projects, experimenting with new ideas, or gaming**.
-- 🌱 I'm currently coding with **JavaScript**, **Node.js**, and **Discord.js**, while continuing to learn new technologies.
-- 💬 I'm especially interested in **Discord Bot Development**, automation, moderation systems, and useful software.
-- 🚀 I've been coding since **2020**, starting at 13 and continuing through **2026**.
-- 👻 I enjoy turning ideas into working projects and improving my skills with every project I build.
+* 🔭 When I'm on my PC, I'm usually **coding, working on projects, experimenting with new ideas, or gaming**.
+* 🌱 I'm currently coding with **JavaScript**, **Node.js**, and **Discord.js**, while continuing to learn new technologies.
+* 💬 I'm especially interested in **Discord Bot Development**, automation, moderation systems, and useful software.
+* 🚀 I've been coding since **2020**, starting at 13 and continuing through **2026**.
+* 👻 I enjoy turning ideas into working projects and improving my skills with every project I build.
 
-***
+---
 
 ## 👤 Discord Profile
 
@@ -62,7 +62,7 @@
 
 </div>
 
-***
+---
 
 ## 🧰 Languages & Tools
 
@@ -98,7 +98,7 @@
 
 </div>
 
-***
+---
 
 ## 🚀 What I Build
 
@@ -106,12 +106,12 @@
 
 Building Discord bots with **Discord.js** and **Node.js**, including:
 
-- Moderation systems
-- Custom commands
-- Automated responses
-- Server utilities
-- Management tools
-- Bot features and integrations
+* Moderation systems
+* Custom commands
+* Automated responses
+* Server utilities
+* Management tools
+* Bot features and integrations
 
 ### ⚙️ Automation
 
@@ -121,27 +121,27 @@ Creating scripts, utilities, and tools that automate repetitive tasks and simpli
 
 Building personal projects, experiments, utilities, and applications to learn new concepts and solve problems.
 
-***
+---
 
 ## 📈 Coding Journey
 
 <div align="center">
 
-| Year | Journey |
-|:---:|---|
-| **2020** | 🟢 Started coding at 13 |
-| **2021** | 📚 Learning & experimenting |
-| **2022** | 🛠️ Building more projects |
-| **2023** | 🚀 Expanding programming skills |
+|   Year   | Journey                               |
+| :------: | ------------------------------------- |
+| **2020** | 🟢 Started coding at 13               |
+| **2021** | 📚 Learning & experimenting           |
+| **2022** | 🛠️ Building more projects            |
+| **2023** | 🚀 Expanding programming skills       |
 | **2024** | 💻 Larger projects & new technologies |
-| **2025** | ⚙️ Development & automation |
-| **2026** | 👻 Still coding, learning & building |
+| **2025** | ⚙️ Development & automation           |
+| **2026** | 👻 Still coding, learning & building  |
 
 </div>
 
 > **6 years of coding. Always learning. Always building.**
 
-***
+---
 
 ## 🎯 Current Focus
 
@@ -159,7 +159,7 @@ Building personal projects, experiments, utilities, and applications to learn ne
 
 </div>
 
-***
+---
 
 ## 📊 GitHub Statistics
 
@@ -181,7 +181,7 @@ Building personal projects, experiments, utilities, and applications to learn ne
 
 </div>
 
-***
+---
 
 ## 🔗 Find Me
 
@@ -201,7 +201,7 @@ Building personal projects, experiments, utilities, and applications to learn ne
 
 </div>
 
-***
+---
 
 ## 📌 Projects
 
@@ -213,7 +213,7 @@ Building personal projects, experiments, utilities, and applications to learn ne
 
 </div>
 
-***
+---
 
 ## 🌐 Social Links
 
@@ -229,13 +229,13 @@ Building personal projects, experiments, utilities, and applications to learn ne
 
 </div>
 
-***
+---
 
 ## 💡 Currently Learning
 
 I'm always working on improving my programming skills, learning new technologies, experimenting with new ideas, and creating projects that challenge me to think differently.
 
-***
+---
 
 ## 👻 Thanks For Visiting
 
