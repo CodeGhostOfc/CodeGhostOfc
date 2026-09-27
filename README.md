@@ -110,5 +110,17 @@ I'm always working on improving my programming skills, learning new technologies
 
 [![GitHub](https://img.shields.io/badge/Follow-CodeGhostOfc-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CodeGhostOfc)
 [![Discord](https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/1541494597941731431)
+## 🔗 Connect With Me
 
+<div align="center">
+
+[![GitHub Profile](https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeGhostOfc)
+
+[![Discord Profile](https://img.shields.io/badge/View%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1541494597941731431)
+
+<br>
+
+### Discord Profile
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1541494597941731431?theme=dark&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=12px&idleMessage=Currently%20away...)](https://discord.com/users/1541494597941731431)
 </div>
