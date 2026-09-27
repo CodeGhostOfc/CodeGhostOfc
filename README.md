@@ -4,11 +4,13 @@
 
 ### Developer • Programmer • Builder
 
-**Building projects, learning continuously, and turning ideas into code.**
+**Turning ideas into code since 2020.**
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-CodeGhostOfc-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CodeGhostOfc)
-[![Discord](https://img.shields.io/badge/Discord-CodeGhostOfc-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/1541494597941731431)
-[![Coding Since](https://img.shields.io/badge/Coding%20Since-2020-111827?style=for-the-badge\&logo=codeforces\&logoColor=white)](#-about-me)
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/1541494597941731431)
+[![Coding Since](https://img.shields.io/badge/Coding%20Since-2020-0D1117?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)](#-about-me)
 
 </div>
 
@@ -16,18 +18,35 @@
 
 ## 👋 About Me
 
-I'm **CodeGhostOfc**, a developer who started coding at **13** and has been building and learning ever since.
+Hey! I'm **CodeGhostOfc**, a developer and programmer who started coding at **13**.
 
-🗓️ **Coding since:** 2020
-⌛ **Experience:** 6 years
-🚀 **Current year:** 2026
-💻 **Focus:** Development, automation, bots, and software projects
+I've been coding since **2020**, constantly learning, experimenting, and building new projects.
 
-I enjoy taking ideas and turning them into functional projects while constantly experimenting with new technologies and improving my development skills.
+🗓️ **Started coding:** 2020
+⌛ **Coding experience:** 6 years
+🎂 **Started at:** 13
+🚀 **Now:** 19
+💻 **Main interests:** Bots, automation, software, and development
+
+I enjoy taking an idea, turning it into code, and learning something new along the way.
 
 ---
 
-## 🧰 Technologies & Tools
+## ⚡ What I Do
+
+<div align="center">
+
+| 💬 Discord Development |    ⚙️ Automation    |    💻 Software    |
+| :--------------------: | :-----------------: | :---------------: |
+|     Bots & commands    |   Scripts & tools   |  Apps & utilities |
+|   Moderation systems   | Workflow automation | Personal projects |
+|       Discord.js       |   Custom solutions  |    Experiments    |
+
+</div>
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -36,33 +55,47 @@ I enjoy taking ideas and turning them into functional projects while constantly 
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 What I Build
+## 📈 My Coding Journey
 
-💬 **Discord Bots**
-Automation, moderation, commands, utilities, and custom Discord systems.
+```text
+2020  ──► Started coding at 13
+          │
+2021  ──► Learning & experimenting
+          │
+2022  ──► Building more projects
+          │
+2023  ──► Expanding my development skills
+          │
+2024  ──► Bigger projects & new technologies
+          │
+2025  ──► More development & automation
+          │
+2026  ──► Still building. Still learning.
+```
 
-⚙️ **Automation**
-Tools and scripts designed to make tasks easier and workflows more efficient.
-
-💻 **Software Projects**
-Utilities, experiments, and projects built to learn, test ideas, and solve problems.
+> **6 years of coding — and I'm still just getting started.**
 
 ---
 
-## 📈 My Development Journey
+## 🚀 Projects & Interests
 
-**2020** → Started coding at 13
-**2021–2023** → Learned, experimented, and built projects
-**2024–2025** → Expanded my development skills and worked on larger projects
-**2026** → Continuing to build, learn, and improve
+### 💬 Discord Development
 
-> **6 years of coding. Always learning. Always building.**
+Building Discord bots, moderation systems, custom commands, utilities, and automation using **Discord.js** and **Node.js**.
+
+### ⚙️ Automation
+
+Creating scripts and tools that make repetitive tasks easier and workflows more efficient.
+
+### 💻 Programming
+
+Experimenting with different technologies, learning new concepts, and building projects that challenge me.
 
 ---
 
@@ -70,15 +103,49 @@ Utilities, experiments, and projects built to learn, test ideas, and solve probl
 
 <div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CodeGhostOfc)
+<a href="https://github.com/CodeGhostOfc">
+<img src="https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-[![Discord Profile](https://img.shields.io/badge/View%20My%20Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/1541494597941731431)
+<a href="https://discord.com/users/1541494597941731431">
+<img src="https://img.shields.io/badge/My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<br><br>
+
+### 👤 Discord Profile
+
+<a href="https://discord.com/users/1541494597941731431">
+
+<img src="https://lanyard.cnrad.dev/api/1541494597941731431?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=12px&idleMessage=Currently%20away..." alt="Discord Presence">
+
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CodeGhostOfc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats">
 
 <br>
 
-### Discord Profile
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeGhostOfc&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1541494597941731431?theme=dark\&bg=0d1117\&animated=false\&hideDiscrim=true\&borderRadius=12px\&idleMessage=Currently%20away...)](https://discord.com/users/1541494597941731431)
+</div>
+
+---
+
+## 🌐 My Links
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-CodeGhostOfc-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CodeGhostOfc)
+
+[![Discord](https://img.shields.io/badge/Discord-1541494597941731431-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/1541494597941731431)
 
 </div>
 
@@ -86,41 +153,16 @@ Utilities, experiments, and projects built to learn, test ideas, and solve probl
 
 ## 💡 Currently Learning
 
-I'm always working on improving my programming skills, learning new technologies, and creating projects that challenge me to think differently.
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-![CodeGhostOfc's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeGhostOfc\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeGhostOfc\&layout=compact\&theme=github_dark\&hide_border=true)
-
-</div>
+I'm always learning something new, improving my programming skills, experimenting with new technologies, and looking for better ways to build my projects.
 
 ---
 
 <div align="center">
 
-### 👻 Code. Build. Learn. Repeat.
+# 👻 Code. Build. Learn.
 
-**Thanks for visiting my profile!**
+### Thanks for stopping by!
 
-[![GitHub](https://img.shields.io/badge/Follow-CodeGhostOfc-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CodeGhostOfc)
-[![Discord](https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/1541494597941731431)
-## 🔗 Connect With Me
+![Profile Views](https://komarev.com/ghpvc/?username=CodeGhostOfc\&style=for-the-badge\&color=blue)
 
-<div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeGhostOfc)
-
-[![Discord Profile](https://img.shields.io/badge/View%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1541494597941731431)
-
-<br>
-
-### Discord Profile
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1541494597941731431?theme=dark&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=12px&idleMessage=Currently%20away...)](https://discord.com/users/1541494597941731431)
 </div>
