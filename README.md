@@ -1,12 +1,22 @@
+<!-- ==================== HEADER ==================== -->
+
 <div align="center">
 
-<img src="./banner.svg" alt="CodeGhostOfc Banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:5865F2&height=240&section=header&text=CodeGhostOfc&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Programmer%20%E2%80%A2%20Builder&descAlignY=58&descSize=20" width="100%" alt="CodeGhostOfc Banner">
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-CodeGhostOfc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeGhostOfc)
-[![Discord](https://img.shields.io/badge/Discord-CodeGhostOfc-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1541494597941731431)
-[![Coding Since](https://img.shields.io/badge/Coding%20Since-2020-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#-about-me)
+<a href="https://github.com/CodeGhostOfc">
+<img src="https://img.shields.io/badge/GitHub-CodeGhostOfc-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://discord.com/users/1541494597941731431">
+<img src="https://img.shields.io/badge/Discord-CodeGhostOfc-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+<a href="#-about-me">
+<img src="https://img.shields.io/badge/Coding%20Since-2020-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Coding Since 2020">
+</a>
 
 </div>
 
@@ -24,29 +34,7 @@
 
 ***
 
-## 👤 Discord Profile
-
-<div align="center">
-
-<a href="https://discord.com/users/1541494597941731431" target="_blank">
-
-<img src="https://discord.c99.nl/widget/theme-1/1541494597941731431.png" alt="CodeGhostOfc Discord Profile">
-
-</a>
-
-<br><br>
-
-<a href="https://discord.com/users/1541494597941731431" target="_blank">
-
-<img src="https://img.shields.io/badge/View%20Discord%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="View Discord Profile">
-
-</a>
-
-</div>
-
-***
-
-## 💻 About Me
+## 👋 About Me
 
 - 🔭 When I'm on my PC, I'm usually **coding, working on projects, experimenting with new ideas, or gaming**.
 
@@ -57,6 +45,28 @@
 - 🚀 I've been coding since **2020**, starting at 13 and continuing through **2026**.
 
 - 👻 I enjoy turning ideas into working projects and improving my skills with every project I build.
+
+***
+
+## 👤 Discord Profile
+
+<div align="center">
+
+<a href="https://discord.com/users/1541494597941731431">
+
+<img src="https://discord.c99.nl/widget/theme-1/1541494597941731431.png" alt="CodeGhostOfc Discord Profile">
+
+</a>
+
+<br><br>
+
+<a href="https://discord.com/users/1541494597941731431">
+
+<img src="https://img.shields.io/badge/View%20Discord%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="View Discord Profile">
+
+</a>
+
+</div>
 
 ***
 
@@ -143,11 +153,15 @@ Building personal projects, experiments, utilities, and applications to learn ne
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Software-111827?style=for-the-badge&logo=code&logoColor=white">
+<img src="https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bots">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+
+<img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation">
+
+<img src="https://img.shields.io/badge/Software-111827?style=for-the-badge&logo=code&logoColor=white" alt="Software">
 
 </div>
 
@@ -220,14 +234,24 @@ Building personal projects, experiments, utilities, and applications to learn ne
 <div align="center">
 
 <a href="https://github.com/CodeGhostOfc">
+
 <img src="https://img.shields.io/badge/GitHub-CodeGhostOfc-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
 </a>
 
 <a href="https://discord.com/users/1541494597941731431">
+
 <img src="https://img.shields.io/badge/Discord-CodeGhostOfc-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+
 </a>
 
 </div>
+
+***
+
+## 💡 Currently Learning
+
+I'm always working on improving my programming skills, learning new technologies, experimenting with new ideas, and creating projects that challenge me to think differently.
 
 ***
 
@@ -254,5 +278,13 @@ Building personal projects, experiments, utilities, and applications to learn ne
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=CodeGhostOfc&style=for-the-badge" alt="Profile Views">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:0D1117&height=120&section=footer" width="100%" alt="Footer">
 
 </div>
