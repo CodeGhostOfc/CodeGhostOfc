@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:5865F2&height=240&section=header&text=CodeGhostOfc&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Programmer%20%E2%80%A2%20Builder&descAlignY=58&descSize=20" width="100%" alt="CodeGhostOfc Banner">
+<img src="https://raw.githubusercontent.com/CodeGhostOfc/CodeGhostOfc/main/assets/codeghost-banner.svg" width="100%" alt="CodeGhostOfc Banner">
 
 <br>
 
